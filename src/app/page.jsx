@@ -6,6 +6,7 @@ export default function Home() {
     <div>
       <h1>Hello I am next-js developer </h1>
       <Image src="/rose.jpg" width={500} height={300}></Image>
+      <h2>Hello</h2>
       <Image src="/2.jpg" width={500} height={300}></Image>
       <Image src="/pexels.jpg" width={500} height={300}></Image>
     </div>
